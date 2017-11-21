@@ -1,5 +1,27 @@
 import csv
+import re
 # function to replace character and add space in file
+def myfunc_space(line):
+
+    b = re.sub('&#59;  ','&#59; ',line)
+    c = re.sub('&#58;  ', '&#58; ', b)
+    d = re.sub('&#8901;  ', '&#8901; ', c)
+    e = re.sub('&#44;  ', '&#44; ', d)
+    f = re.sub('  &#40;', ' &#40;', e)
+    e = re.sub('&#41;  ', '&#41; ', f)
+    g = re.sub('&#58;  ', '&#58; ', e)
+    h = re.sub('  &#60;', ' &#60;', g)
+    i = re.sub('&#62;  ', '&#62; ', h)
+    j = re.sub('&#33;  ', '&#33; ', i)
+    k = re.sub('&#43;  ', '&#43; ', j)
+    l = re.sub('  &#43;', ' &#43;', k)
+    m = re.sub('  &ldquo;', ' &ldquo;', l)
+    n = re.sub('&rdquo;  ', '&rdquo; ', m)
+    o = re.sub('  &lsquo;', ' &lsquo;', n)
+    p = re.sub('&rdquo;  ', '&rdquo; ', o)
+
+    return p
+#function to find and replace
 def myfunc(line):
 
     b = line.replace(';', "&#59; ")
@@ -50,7 +72,7 @@ def myfunc(line):
         else:
             n += k
     o = n
-    pr = o
+    pr = myfunc_space(o) # calling for space function
     return pr
 
 SOURCE_FILE = './Liner2.csv'

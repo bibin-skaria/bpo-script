@@ -1,10 +1,10 @@
 <doctypehtml1>
 <html>
 <body>
-843568089
+8435680&#59; 89
 Houston
-3&#45;M PHARMACEUTICALS PVT&#39;   LTD&#39;  
-10800 Metcalf&#45; Avenue&#45;Overland Park&#44;  Kansas 66&#47;210
+3&#45;M PHARMACEUTICALS PVT&#8901; LTD&#8901; 
+10800 Metcalf&#45; Avenue&#45;Overland Park&#44; Kansas 66&#47;210
 </body>
 </html>
 <doctypehtml2>
@@ -12,8 +12,8 @@ Houston
 <body>
 226038045
 COFFEYVILLE
-3&#45;M DRUG DELIVERY SYSTEMS&#39;  
-56&#45;0 Westport Road&#44;  Kansas City&#44;  Missouri 64111&#39;  
+3&#45;M DRUG DELIVERY SYSTEMS&#8901; 
+56&#45;0 Westport Road&#44; Kansas City&#44; Missouri 64111&#8901; 
 </body>
 </html>
 <doctypehtml3>
@@ -22,7 +22,7 @@ COFFEYVILLE
 394772114
 PHILLIPSBURG
 PENINSULA LABORATORIES
-2345 McGee StreetKansas City&#44;  MO 64108Telephone&#58;  816&#45;421&#45;1234FAX&#58;  816&#45;435&#45;4190
+2345 McGee StreetKansas City&#44; MO 64108Telephone&#58; 816&#45;421&#45;1234FAX&#58; 816&#45;435&#45;4190
 </body>
 </html>
 <doctypehtml4>
@@ -30,8 +30,8 @@ PENINSULA LABORATORIES
 <body>
 497666434
 COFFEYVILLE
-INTERNATIONAL LABORATORIES INC&#39;  
-6100 College Blvd&#39;  Overland Park&#44;  KS 66211Telephone&#58;  913&#45;234&#45;2100
+INTERNATIONAL LABORATORIES INC&#8901; 
+6100 College Blvd&#8901; Overland Park&#44; KS 66211Telephone&#58; 913&#45;234&#45;2100
 </body>
 </html>
 <doctypehtml5>
@@ -39,8 +39,8 @@ INTERNATIONAL LABORATORIES INC&#39;
 <body>
 950314807
 BANCROFT
-ABLE PACKAGING LTD&#39;  
-770 West 47th StreetTelephone&#58;  816&#45;931&#45;4400FAX&#58;  816&#45;931&#45;3352
+ABLE PACKAGING LTD&#8901; 
+770 West 47th StreetTelephone&#58; 816&#45;931&#45;4400FAX&#58; 816&#45;931&#45;3352
 </body>
 </html>
 <doctypehtml6>
@@ -49,7 +49,7 @@ ABLE PACKAGING LTD&#39;
 356237388
 HAMPDEN
 MAUSER WERKE GMBH
-Westin Crown CenterOne Pershing RoadMO 64108Telephone&#58;  816&#45;474&#45;4400FAX&#58;  816&#45;391&#45;4438
+Westin Crown CenterOne Pershing RoadMO 64108Telephone&#58; 816&#45;474&#45;4400FAX&#58; 816&#45;391&#45;4438
 </body>
 </html>
 <doctypehtml7>
@@ -57,8 +57,8 @@ Westin Crown CenterOne Pershing RoadMO 64108Telephone&#58;  816&#45;474&#45;4400
 <body>
 444928919
 LEWISTON
-MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#39;  INC&#39;  
- &ldquo;2489 Walden Avenue Buffalo Cheektowaga NY 14225 t&#58;  &#43; 1 800 804 4167 f&#58;  &#43; 1 716 685 5398&rdquo; 
+MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#8901; INC&#8901; 
+ &ldquo;2489 Walden Avenue Buffalo Cheektowaga NY 14225 t&#58; &#43; 1 800 804 4167 f&#58; &#43; 1 716 685 5398&rdquo; 
 </body>
 </html>
 <doctypehtml8>
@@ -67,7 +67,7 @@ MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#39;  INC&#39;
 674100711
 LEWISTON
 COLORS FOR PLASTICS
- &ldquo;2720 West Grand Avenue Chicago IL 60612 t&#58;  &#43; 1 800 621 8520 f&#58;  &#43; 773 227 3380&rdquo; 
+ &ldquo;2720 West Grand Avenue Chicago IL 60612 t&#58; &#43; 1 800 621 8520 f&#58; &#43; 773 227 3380&rdquo; 
 </body>
 </html>
 <doctypehtml9>
@@ -76,7 +76,7 @@ COLORS FOR PLASTICS
 608429176
 Collins
 COLORS FOR PLASTICS
- &ldquo;1066&#45;68 Marshall Avenue CINC&#39;  innati OH 45225 t&#58;  &#43; 1 800 543 2063 f&#58;  &#43; 1 513 541 3427&rdquo; 
+ &ldquo;1066&#45;68 Marshall Avenue CINC&#8901; innati OH 45225 t&#58; &#43; 1 800 543 2063 f&#58; &#43; 1 513 541 3427&rdquo; 
 </body>
 </html>
 <doctypehtml10>
@@ -85,7 +85,7 @@ COLORS FOR PLASTICS
 805401791
 Wilmington
 COLORS FOR PLASTICS
- &ldquo;4&#45;C Sunbelt Court Columbia South Carolina SC 29203 t&#58;  &#43; 1 803 754 2882 f&#58;  &#43; 1 803 754 3448&rdquo; 
+ &ldquo;4&#45;C Sunbelt Court Columbia South Carolina SC 29203 t&#58; &#43; 1 803 754 2882 f&#58; &#43; 1 803 754 3448&rdquo; 
 </body>
 </html>
 <doctypehtml11>
@@ -93,8 +93,8 @@ COLORS FOR PLASTICS
 <body>
 73564849
 Wilmington
-ACTION COLOR INC&#39;  
- &ldquo;3440 Centerpoint Drive Urbancrest OH 43123 t&#58;  &#43; 1 614 801 5900 f&#58;  &#43; 1 614 801 5955&rdquo; 
+ACTION COLOR INC&#8901; 
+ &ldquo;3440 Centerpoint Drive Urbancrest OH 43123 t&#58; &#43; 1 614 801 5900 f&#58; &#43; 1 614 801 5955&rdquo; 
 </body>
 </html>
 <doctypehtml12>
@@ -102,8 +102,8 @@ ACTION COLOR INC&#39;
 <body>
 513292369
 Savannah
-WHATMAN PAPER LTD&#39;  
- &ldquo;Unit 2 490 Bryant Street Denver CO&#39;  80204 t&#58;  &#43; 1 800 332 2415 f&#58;  &#43; 1 303 825 3266&rdquo; 
+WHATMAN PAPER LTD&#8901; 
+ &ldquo;Unit 2 490 Bryant Street Denver CO&#8901; 80204 t&#58; &#43; 1 800 332 2415 f&#58; &#43; 1 303 825 3266&rdquo; 
 </body>
 </html>
 <doctypehtml13>
@@ -111,8 +111,8 @@ WHATMAN PAPER LTD&#39;
 <body>
 623266604
 Savannah
-CRODA INC&#39;  
-10400 Hickman Des Moines IA 50325 t&#58;  &#43; 1 800 685 6922
+CRODA INC&#8901; 
+10400 Hickman Des Moines IA 50325 t&#58; &#43; 1 800 685 6922
 </body>
 </html>
 <doctypehtml14>
@@ -120,8 +120,8 @@ CRODA INC&#39;
 <body>
 57894072
 HOUSTON
-JOHNSON MATTHEY INC&#39;  
- &ldquo;Suite C&#45;1 1477 Lomaland Dr El Paso TX 79935 t&#58;  &#43; 1 915 591 2280 f&#58;  &#43; 1 915 591 2834&rdquo; 
+JOHNSON MATTHEY INC&#8901; 
+ &ldquo;Suite C&#45;1 1477 Lomaland Dr El Paso TX 79935 t&#58; &#43; 1 915 591 2280 f&#58; &#43; 1 915 591 2834&rdquo; 
 </body>
 </html>
 <doctypehtml15>
@@ -129,8 +129,8 @@ JOHNSON MATTHEY INC&#39;
 <body>
 451710899
 HOUSTON
-LANCASTER SYNTHESIS DIV MTM RESEARCH CHEMICALS LTD&#39;  
- &ldquo;275 Grimes Street Eugene OR 97402 t&#58;  &#43; 1 800 215 4666 f&#58;  &#43; 1 541 345 2718&rdquo; 
+LANCASTER SYNTHESIS DIV MTM RESEARCH CHEMICALS LTD&#8901; 
+ &ldquo;275 Grimes Street Eugene OR 97402 t&#58; &#43; 1 800 215 4666 f&#58; &#43; 1 541 345 2718&rdquo; 
 </body>
 </html>
 <doctypehtml16>
@@ -138,8 +138,8 @@ LANCASTER SYNTHESIS DIV MTM RESEARCH CHEMICALS LTD&#39;
 <body>
 712522688
 Houston
-LANCASTER SYNTHESIS DIV MTM RESEARCH CHEMICALS LTD&#39;  
- &ldquo;#101&#45;10315 Airport Road Everett WA 98206 t&#58;  &#43; 1 425 438 8442 f&#58;  &#43; 1 425 438 8443&rdquo; 
+LANCASTER SYNTHESIS DIV MTM RESEARCH CHEMICALS LTD&#8901; 
+ &ldquo;#101&#45;10315 Airport Road Everett WA 98206 t&#58; &#43; 1 425 438 8442 f&#58; &#43; 1 425 438 8443&rdquo; 
 </body>
 </html>
 <doctypehtml17>
@@ -147,8 +147,8 @@ LANCASTER SYNTHESIS DIV MTM RESEARCH CHEMICALS LTD&#39;
 <body>
 4123334
 Houston
-UNION CARBIDE CHEMICALS AND PLASTICS CO&#39;  INC&#39;  
- &ldquo;2611 Pickett Place&#44;  Unit 4 Fairbanks AK 99701 t&#58;  &#43; 1 907 522 9522 f&#58;  &#43; 1 907 456 1375&rdquo; 
+UNION CARBIDE CHEMICALS AND PLASTICS CO&#8901; INC&#8901; 
+ &ldquo;2611 Pickett Place&#44; Unit 4 Fairbanks AK 99701 t&#58; &#43; 1 907 522 9522 f&#58; &#43; 1 907 456 1375&rdquo; 
 </body>
 </html>
 <doctypehtml18>
@@ -156,8 +156,8 @@ UNION CARBIDE CHEMICALS AND PLASTICS CO&#39;  INC&#39;
 <body>
 556178402
 Texas City
-DSM PHARMA CHEMICALS SOUTH HAVEN INC&#39;  
- &ldquo;12&#45;1 Dubon Court Long Island Farmingdale NY 11735&#45;1015 t&#58;  &#43; 1 866 419 2581 f&#58;  &#43; 1 631 847 3819&rdquo; 
+DSM PHARMA CHEMICALS SOUTH HAVEN INC&#8901; 
+ &ldquo;12&#45;1 Dubon Court Long Island Farmingdale NY 11735&#45;1015 t&#58; &#43; 1 866 419 2581 f&#58; &#43; 1 631 847 3819&rdquo; 
 </body>
 </html>
 <doctypehtml19>
@@ -166,7 +166,7 @@ DSM PHARMA CHEMICALS SOUTH HAVEN INC&#39;
 532685286
 Savannah
 BAYER OY
- &ldquo;Suite C 2366 N&#39;   Steves Blvd Flagstaff AZ 86004 t&#58;  &#43; 1 866 401 9139 f&#58;  &#43; 1 928 527 4701&rdquo; 
+ &ldquo;Suite C 2366 N&#8901; Steves Blvd Flagstaff AZ 86004 t&#58; &#43; 1 866 401 9139 f&#58; &#43; 1 928 527 4701&rdquo; 
 </body>
 </html>
 <doctypehtml20>
@@ -175,7 +175,7 @@ BAYER OY
 529116223
 Charleston
 THATCHER CO
-2335 Laurens Circle Florence SC 29501 t&#58;  &#43; 1 800 256 9864 f&#58;  &#43; 1 843 395 2278
+2335 Laurens Circle Florence SC 29501 t&#58; &#43; 1 800 256 9864 f&#58; &#43; 1 843 395 2278
 </body>
 </html>
 <doctypehtml21>
@@ -184,7 +184,7 @@ THATCHER CO
 102962771
 Jacksonville
 NV ORGANON
-308 Commerce Drive Fort Collins CO&#39;  80524 t&#58;  &#43; 1 800 281 8992 f&#58;  &#43; 1 970 224 0488
+308 Commerce Drive Fort Collins CO&#8901; 80524 t&#58; &#43; 1 800 281 8992 f&#58; &#43; 1 970 224 0488
 </body>
 </html>
 <doctypehtml22>
@@ -192,8 +192,8 @@ NV ORGANON
 <body>
 305762845
 Houston
-MANTROSE HAEUSER CO&#39;  INC&#39;  
-900 South Fresno St Fort Smith AR 72902 t&#58;  &#43; 1 501 785 3270 f&#58;  &#43; 1 479 785 1596
+MANTROSE HAEUSER CO&#8901; INC&#8901; 
+900 South Fresno St Fort Smith AR 72902 t&#58; &#43; 1 501 785 3270 f&#58; &#43; 1 479 785 1596
 </body>
 </html>
 <doctypehtml23>
@@ -202,7 +202,7 @@ MANTROSE HAEUSER CO&#39;  INC&#39;
 562649713
 WILMINGTON
 HELVOET PHARMA MARYLAND
-7601 Pebble Drive&#44;  Bldg&#39;   #22 Fort Worth TX 76118 t&#58;  &#43; 1 817 284 1089 f&#58;  &#43; 1 817 834 5866
+7601 Pebble Drive&#44; Bldg&#8901; #22 Fort Worth TX 76118 t&#58; &#43; 1 817 284 1089 f&#58; &#43; 1 817 834 5866
 </body>
 </html>
 <doctypehtml24>
@@ -211,7 +211,7 @@ HELVOET PHARMA MARYLAND
 868661286
 HOUSTON
 PRODUCTOS QUIMICOS NATURALES S A
-1191 North Fiesta Blvd&#44;  Suite #4 Gilbert AZ 85233 t&#58;  &#43; 1 480 507 5305 f&#58;  &#43; 1 480 507 5311
+1191 North Fiesta Blvd&#44; Suite #4 Gilbert AZ 85233 t&#58; &#43; 1 480 507 5305 f&#58; &#43; 1 480 507 5311
 </body>
 </html>
 <doctypehtml25>
@@ -219,8 +219,8 @@ PRODUCTOS QUIMICOS NATURALES S A
 <body>
 557985921
 HOUSTON
-JOHNSON MATTHEY INC&#39;  
-510 Windy Point Drive Glendale Heights IL 60139 t&#58;  &#43; 1 630 545 9065 f&#58;  &#43; 1 630 545 9531
+JOHNSON MATTHEY INC&#8901; 
+510 Windy Point Drive Glendale Heights IL 60139 t&#58; &#43; 1 630 545 9065 f&#58; &#43; 1 630 545 9531
 </body>
 </html>
 <doctypehtml26>
@@ -228,8 +228,8 @@ JOHNSON MATTHEY INC&#39;
 <body>
 59430732
 HOUSTON
-TAKEDA CHEMICAL INDUSTRIES LTD&#39;  
-2040 Turner Avenue NW Grand Rapids MI 49544 t&#58;  &#43; 1 616 364 4666 f&#58;  &#43; 1 616 616 8672
+TAKEDA CHEMICAL INDUSTRIES LTD&#8901; 
+2040 Turner Avenue NW Grand Rapids MI 49544 t&#58; &#43; 1 616 364 4666 f&#58; &#43; 1 616 616 8672
 </body>
 </html>
 <doctypehtml27>
@@ -237,8 +237,8 @@ TAKEDA CHEMICAL INDUSTRIES LTD&#39;
 <body>
 509160041
 CHARLESTON
-ALDRICH CHEMICAL CO&#39;  INC&#39;  
-Unit E 104 North King Road Greenville SC 29605 t&#58;  &#43; 1 864 277 7919 f&#58;  &#43; 1 864 277 0665
+ALDRICH CHEMICAL CO&#8901; INC&#8901; 
+Unit E 104 North King Road Greenville SC 29605 t&#58; &#43; 1 864 277 7919 f&#58; &#43; 1 864 277 0665
 </body>
 </html>
 <doctypehtml28>
@@ -246,8 +246,8 @@ Unit E 104 North King Road Greenville SC 29605 t&#58;  &#43; 1 864 277 7919 f&#5
 <body>
 213151716
 SAVANNAH
-ALDRICH CHEMICAL CO&#39;  INC&#39;  
-220 Murphy Road Hartford CT 06114 t&#58;  &#43; 1 860 728 3398 f&#58;  &#43; 1 860 728 3807
+ALDRICH CHEMICAL CO&#8901; INC&#8901; 
+220 Murphy Road Hartford CT 06114 t&#58; &#43; 1 860 728 3398 f&#58; &#43; 1 860 728 3807
 </body>
 </html>
 <doctypehtml29>
@@ -256,7 +256,7 @@ ALDRICH CHEMICAL CO&#39;  INC&#39;
 998056938
 JACKSONVILLE
 3M DRUG DELIVERY SYSTEMS
-2105 Silber Rd Suite 102 Houston TX 77008 t&#58;  &#43; 1 713 880 0615 f&#58;  &#43; 1 713 880 9589
+2105 Silber Rd Suite 102 Houston TX 77008 t&#58; &#43; 1 713 880 0615 f&#58; &#43; 1 713 880 9589
 </body>
 </html>
 <doctypehtml30>
@@ -265,7 +265,7 @@ JACKSONVILLE
 846147151
 HOUSTON
 AQUALON CO
-3180 N&#39;   Shadeland Avenue Indianapolis IN 46226 t&#58;  &#43; 1 317 542 8086 f&#58;  &#43; 1 317 542 0881
+3180 N&#8901; Shadeland Avenue Indianapolis IN 46226 t&#58; &#43; 1 317 542 8086 f&#58; &#43; 1 317 542 0881
 </body>
 </html>
 <doctypehtml31>
@@ -274,7 +274,7 @@ AQUALON CO
 579370461
 GALENA PARK
 BECTON DICKINSON AND CO
-400 Country Place Parkway Pearl MS 39208 t&#58;  &#43; 1 601 932 2137 f&#58;  &#43; 1 601 420 4251
+400 Country Place Parkway Pearl MS 39208 t&#58; &#43; 1 601 932 2137 f&#58; &#43; 1 601 420 4251
 </body>
 </html>
 <doctypehtml32>
@@ -282,8 +282,8 @@ BECTON DICKINSON AND CO
 <body>
 970370615
 ALPHARETTA
-JOHNSON MATTHEY INC&#39;  
-Unit 1 115 N Davis St Jacksonville FL 32204 t&#58;  &#43; 1 904 354 3148 f&#58;  &#43; 1 904 354 3198
+JOHNSON MATTHEY INC&#8901; 
+Unit 1 115 N Davis St Jacksonville FL 32204 t&#58; &#43; 1 904 354 3148 f&#58; &#43; 1 904 354 3198
 </body>
 </html>
 <doctypehtml33>
@@ -292,7 +292,7 @@ Unit 1 115 N Davis St Jacksonville FL 32204 t&#58;  &#43; 1 904 354 3148 f&#58; 
 534884029
 AUSTELL
 LABOCHIM SPA
-6541 South 216th Street&#44;  #E Kent WA 98032 t&#58;  &#43; 1 253 872 0670 f&#58;  &#43; 1 253 872 0669
+6541 South 216th Street&#44; #E Kent WA 98032 t&#58; &#43; 1 253 872 0670 f&#58; &#43; 1 253 872 0669
 </body>
 </html>
 <doctypehtml34>
@@ -301,7 +301,7 @@ LABOCHIM SPA
 987432316
 GREENSBORO
 CILAG AG
-1505 Proctor Street Knoxville TN 37921 t&#58;  &#43; 1 865 637 6701 f&#58;  &#43; 1 865 637 6759
+1505 Proctor Street Knoxville TN 37921 t&#58; &#43; 1 865 637 6701 f&#58; &#43; 1 865 637 6759
 </body>
 </html>
 <doctypehtml35>
@@ -309,8 +309,8 @@ CILAG AG
 <body>
 948539979
 ALPHARETTA
-NORTH CHINA PHARMACEUTICAL CORP&#39;  
-Building 4 2979 Old Tree Drive Lancaster PA 17603 t&#58;  &#43; 1 717 394 0708 f&#58;  &#43; 1 717 394 7213
+NORTH CHINA PHARMACEUTICAL CORP&#8901; 
+Building 4 2979 Old Tree Drive Lancaster PA 17603 t&#58; &#43; 1 717 394 0708 f&#58; &#43; 1 717 394 7213
 </body>
 </html>
 <doctypehtml36>
@@ -318,8 +318,8 @@ Building 4 2979 Old Tree Drive Lancaster PA 17603 t&#58;  &#43; 1 717 394 0708 f
 <body>
 830020805
 Fruita
-TEVA PHARMACEUTICAL INDUSTRIES LTD&#39;  
-3205 Polaris Avenue Las Vegas NV 89102 t&#58;  &#43; 1 702 367 2136 f&#58;  &#43; 1 702 873 6106
+TEVA PHARMACEUTICAL INDUSTRIES LTD&#8901; 
+3205 Polaris Avenue Las Vegas NV 89102 t&#58; &#43; 1 702 367 2136 f&#58; &#43; 1 702 873 6106
 </body>
 </html>
 <doctypehtml37>
@@ -328,7 +328,7 @@ TEVA PHARMACEUTICAL INDUSTRIES LTD&#39;
 752437806
 FRUITA
 BK LADENBURG GMBH
-Float Plant 500 East Louise Ave Lathrop CA 95330 t&#58;  &#43; 1 209 858 5151 f&#58;  &#43; 1 209 858 2024
+Float Plant 500 East Louise Ave Lathrop CA 95330 t&#58; &#43; 1 209 858 5151 f&#58; &#43; 1 209 858 2024
 </body>
 </html>
 <doctypehtml38>
@@ -337,7 +337,7 @@ Float Plant 500 East Louise Ave Lathrop CA 95330 t&#58;  &#43; 1 209 858 5151 f&
 383208638
 Bloomington
 BK LADENBURG GMBH
-165A Trade Street Lexington KY 40511 t&#58;  &#43; 1 859 243 0978 f&#58;  &#43; 1 859 243 0282
+165A Trade Street Lexington KY 40511 t&#58; &#43; 1 859 243 0978 f&#58; &#43; 1 859 243 0282
 </body>
 </html>
 <doctypehtml39>
@@ -346,7 +346,7 @@ BK LADENBURG GMBH
 126082446
 CRESTON
 BK LADENBURG GMBH
-Suite B 6619 Woodson Road Little Rock AR 72209 t&#58;  &#43; 1 501 562 8317 f&#58;  &#43; 1 501 562 7110
+Suite B 6619 Woodson Road Little Rock AR 72209 t&#58; &#43; 1 501 562 8317 f&#58; &#43; 1 501 562 7110
 </body>
 </html>
 <doctypehtml40>
@@ -354,8 +354,8 @@ Suite B 6619 Woodson Road Little Rock AR 72209 t&#58;  &#43; 1 501 562 8317 f&#5
 <body>
 93567762
 OYSTER BAY
-PRIMA PHARM INC&#39;  
-12754 Richfield Ct&#39;   Livonia MI 48150 t&#58;  &#43; 1 734 462 9380 f&#58;  &#43; 1 734 462 1256
+PRIMA PHARM INC&#8901; 
+12754 Richfield Ct&#8901; Livonia MI 48150 t&#58; &#43; 1 734 462 9380 f&#58; &#43; 1 734 462 1256
 </body>
 </html>
 <doctypehtml41>
@@ -363,8 +363,8 @@ PRIMA PHARM INC&#39;
 <body>
 754256247
 OYSTER BAY
-TATEYAMA KASEI CO&#39;  LTD&#39;  
-Suite E 1002 West Cotton St Longview TX 75604&#45;5544 t&#58;  &#43; 1 877 295 0656 f&#58;  &#43; 1 903 758 3034
+TATEYAMA KASEI CO&#8901; LTD&#8901; 
+Suite E 1002 West Cotton St Longview TX 75604&#45;5544 t&#58; &#43; 1 877 295 0656 f&#58; &#43; 1 903 758 3034
 </body>
 </html>
 <doctypehtml42>
@@ -373,7 +373,7 @@ Suite E 1002 West Cotton St Longview TX 75604&#45;5544 t&#58;  &#43; 1 877 295 0
 62839833
 PORTLAND
 NV ORGANON
-Unit 114 3899 Produce Road Louisville KY 40218 t&#58;  &#43; 1 502 964 4108 f&#58;  &#43; 1 502 964 4554
+Unit 114 3899 Produce Road Louisville KY 40218 t&#58; &#43; 1 502 964 4108 f&#58; &#43; 1 502 964 4554
 </body>
 </html>
 <doctypehtml43>
@@ -381,8 +381,8 @@ Unit 114 3899 Produce Road Louisville KY 40218 t&#58;  &#43; 1 502 964 4108 f&#5
 <body>
 502811046
 HOPKINSVILLE
-BOEHRINGER INGELHEIM PHARMA GMBH AND CO&#39;  
-3068 Lakeview Drive Memphis TN 38116 t&#58;  &#43; 1 901 332 0229 f&#58;  &#43; 1 901 332 9068
+BOEHRINGER INGELHEIM PHARMA GMBH AND CO&#8901; 
+3068 Lakeview Drive Memphis TN 38116 t&#58; &#43; 1 901 332 0229 f&#58; &#43; 1 901 332 9068
 </body>
 </html>
 <doctypehtml44>
@@ -391,7 +391,7 @@ BOEHRINGER INGELHEIM PHARMA GMBH AND CO&#39;
 600178614
 COMSTOCK
 IONISOS
-2600&#45;2604 L & A Road Metairie LA 70001&#45;5957 t&#58;  &#43; 1 504 834 2717 f&#58;  &#43; 1 504 835 9538
+2600&#45;2604 L & A Road Metairie LA 70001&#45;5957 t&#58; &#43; 1 504 834 2717 f&#58; &#43; 1 504 835 9538
 </body>
 </html>
 <doctypehtml45>
@@ -399,8 +399,8 @@ IONISOS
 <body>
 369857754
 Carson
-WILLIAM RANSON AND SON LTD&#39;  
-8850 NW 24th Terrace Doral FL 33172 t&#58;  &#43; 1 305 593 5130 f&#58;  &#43; 1 305 593 2078
+WILLIAM RANSON AND SON LTD&#8901; 
+8850 NW 24th Terrace Doral FL 33172 t&#58; &#43; 1 305 593 5130 f&#58; &#43; 1 305 593 2078
 </body>
 </html>
 <doctypehtml46>
@@ -408,8 +408,8 @@ WILLIAM RANSON AND SON LTD&#39;
 <body>
 750274982
 Houston
-HENKEL AG AND CO&#39;  
-Suite 200 13100 W&#39;   Lisbon Road Brookfield WI 53005 t&#58;  &#43; 1 262 783 1223 f&#58;  &#43; 1 262 783 6282
+HENKEL AG AND CO&#8901; 
+Suite 200 13100 W&#8901; Lisbon Road Brookfield WI 53005 t&#58; &#43; 1 262 783 1223 f&#58; &#43; 1 262 783 6282
 </body>
 </html>
 <doctypehtml47>
@@ -417,8 +417,8 @@ Suite 200 13100 W&#39;   Lisbon Road Brookfield WI 53005 t&#58;  &#43; 1 262 783
 <body>
 623728225
 E CHICAGO
-MITSUI PETROCHEMICAL AMERICA LTD&#39;  
-3741 Joy Springs Drive Mobile AL 36693 t&#58;  &#43; 1 800 241 5000 f&#58;  &#43; 1 251 666 9903
+MITSUI PETROCHEMICAL AMERICA LTD&#8901; 
+3741 Joy Springs Drive Mobile AL 36693 t&#58; &#43; 1 800 241 5000 f&#58; &#43; 1 251 666 9903
 </body>
 </html>
 <doctypehtml48>
@@ -427,7 +427,7 @@ MITSUI PETROCHEMICAL AMERICA LTD&#39;
 65253687
 Paola
 DIOSYNTH BV
-231 N Eastern Blvd Unit 11 Montgomery AL 36117 t&#58;  &#43; 1 800 241 5000 f&#58;  &#43; 1 334 244 9035
+231 N Eastern Blvd Unit 11 Montgomery AL 36117 t&#58; &#43; 1 800 241 5000 f&#58; &#43; 1 334 244 9035
 </body>
 </html>
 <doctypehtml49>
@@ -435,8 +435,8 @@ DIOSYNTH BV
 <body>
 370690116
 JEFFERSON CITY
-WYCKOFF CHEMICAL CO&#39;  INC&#39;  
-Suite 500 409 Airport Blvd Morrisville NC 27560 t&#58;  &#43; 1 919 481 2242 f&#58;  &#43; 1 919 481 2248
+WYCKOFF CHEMICAL CO&#8901; INC&#8901; 
+Suite 500 409 Airport Blvd Morrisville NC 27560 t&#58; &#43; 1 919 481 2242 f&#58; &#43; 1 919 481 2248
 </body>
 </html>
 <doctypehtml50>
@@ -445,7 +445,7 @@ Suite 500 409 Airport Blvd Morrisville NC 27560 t&#58;  &#43; 1 919 481 2242 f&#
 220877224
 Billings
 OMV WERKSTOFF PCD POLYMERE GMBH
-190 Jacob Lane Myrtle Beach South Carolina SC 29579 t&#58;  &#43; 1 843 236 7455 f&#58;  &#43; 1 843 236 5986
+190 Jacob Lane Myrtle Beach South Carolina SC 29579 t&#58; &#43; 1 843 236 7455 f&#58; &#43; 1 843 236 5986
 </body>
 </html>
 <doctypehtml51>
@@ -454,7 +454,7 @@ OMV WERKSTOFF PCD POLYMERE GMBH
 44371479
 Commerce City
 SYNKEM DIV PLASTO SA
-7289 C Spa Road N&#39;   Charleston South Carolina SC 29418 t&#58;  &#43; 1 843 572 1407 f&#58;  &#43; 1 843 863 8699
+7289 C Spa Road N&#8901; Charleston South Carolina SC 29418 t&#58; &#43; 1 843 572 1407 f&#58; &#43; 1 843 863 8699
 </body>
 </html>
 <doctypehtml52>
@@ -463,7 +463,7 @@ SYNKEM DIV PLASTO SA
 804304314
 Wichita
 ABBOTT LABORATORIES
-688 Melrose Ave Nashville TN 37211 t&#58;  &#43; 1 615 248 7928 f&#58;  &#43; 1 615 254 5598
+688 Melrose Ave Nashville TN 37211 t&#58; &#43; 1 615 248 7928 f&#58; &#43; 1 615 254 5598
 </body>
 </html>
 <doctypehtml53>
@@ -472,7 +472,7 @@ ABBOTT LABORATORIES
 709566439
 TRAINER
 HELVOET PHARMA MARYLAND
-601 Campus Drive New Brighton MN 55112 t&#58;  &#43; 1 651 633 3100 f&#58;  &#43; 1 651 633 3101
+601 Campus Drive New Brighton MN 55112 t&#58; &#43; 1 651 633 3100 f&#58; &#43; 1 651 633 3101
 </body>
 </html>
 <doctypehtml54>
@@ -480,8 +480,8 @@ HELVOET PHARMA MARYLAND
 <body>
 847958305
 Phoenix
-NEULAND LABORATORIES LTD&#39;  
-2121 West Chicago Road Suite E Niles MI 49120 t&#58;  &#43; 1 269 687 2100 f&#58;  &#43; 1 269 687 2121
+NEULAND LABORATORIES LTD&#8901; 
+2121 West Chicago Road Suite E Niles MI 49120 t&#58; &#43; 1 269 687 2100 f&#58; &#43; 1 269 687 2121
 </body>
 </html>
 <doctypehtml55>
@@ -489,8 +489,8 @@ NEULAND LABORATORIES LTD&#39;
 <body>
 532725403
 FORSYTH
-NEULAND LABORATORIES LTD&#39;  
-5855&#45;C Oakbrook Parkway Norcross GA 30093 t&#58;  &#43; 1 800 241 5000 f&#58;  &#43; 1 770 453 9436
+NEULAND LABORATORIES LTD&#8901; 
+5855&#45;C Oakbrook Parkway Norcross GA 30093 t&#58; &#43; 1 800 241 5000 f&#58; &#43; 1 770 453 9436
 </body>
 </html>
 <doctypehtml56>
@@ -499,7 +499,7 @@ NEULAND LABORATORIES LTD&#39;
 399557184
 WOODBURY HEIGHTS
 ISOTRON WESTPORT LIMITED
-5255 Henneman Drive Ste 100 Norfolk VA 23513 t&#58;  &#43; 1 757 853 0019 f&#58;  &#43; 1 757 857 7058
+5255 Henneman Drive Ste 100 Norfolk VA 23513 t&#58; &#43; 1 757 853 0019 f&#58; &#43; 1 757 857 7058
 </body>
 </html>
 <doctypehtml57>
@@ -507,8 +507,8 @@ ISOTRON WESTPORT LIMITED
 <body>
 795569214
 PASADENA
-KAKEN PHARMACEUTICAL CO&#39;  LTD&#39;  
-2401 East Broadway Northwood OHIO 43619 t&#58;  &#43; 1 419 247 4212 f&#58;  &#43; 1 419 247 4472
+KAKEN PHARMACEUTICAL CO&#8901; LTD&#8901; 
+2401 East Broadway Northwood OHIO 43619 t&#58; &#43; 1 419 247 4212 f&#58; &#43; 1 419 247 4472
 </body>
 </html>
 <doctypehtml58>
@@ -516,8 +516,8 @@ KAKEN PHARMACEUTICAL CO&#39;  LTD&#39;
 <body>
 779051227
 Amarillo
-OTSUKA PHARMACEUTICAL CO&#39;  LTD&#39;  
-900 S&#39;   W&#39;   4th Street Oklahoma City OK 73109 t&#58;  &#43; 1 405 235 6265 f&#58;  &#43; 1 405 235 6269
+OTSUKA PHARMACEUTICAL CO&#8901; LTD&#8901; 
+900 S&#8901; W&#8901; 4th Street Oklahoma City OK 73109 t&#58; &#43; 1 405 235 6265 f&#58; &#43; 1 405 235 6269
 </body>
 </html>
 <doctypehtml59>
@@ -525,7 +525,7 @@ OTSUKA PHARMACEUTICAL CO&#39;  LTD&#39;
 <body>
 329639714
 Mt Pleasant
-GETTIG PHARMACEUTICAL INSTRUMENT CO&#39;  
+GETTIG PHARMACEUTICAL INSTRUMENT CO&#8901; 
 13333 Lynam Drive Omaha NE 68138
 </body>
 </html>
@@ -534,8 +534,8 @@ GETTIG PHARMACEUTICAL INSTRUMENT CO&#39;
 <body>
 663239209
 Portland
-OWENS BROCKWAY GLASS CONTAINER INC&#39;  
-4500 Seaboard Road Orlando FL 32808&#45;3846 t&#58;  &#43; 1407 295 8560 f&#58;  &#43; 1407 295 8592
+OWENS BROCKWAY GLASS CONTAINER INC&#8901; 
+4500 Seaboard Road Orlando FL 32808&#45;3846 t&#58; &#43; 1407 295 8560 f&#58; &#43; 1407 295 8592
 </body>
 </html>
 <doctypehtml61>
@@ -543,8 +543,8 @@ OWENS BROCKWAY GLASS CONTAINER INC&#39;
 <body>
 412736629
 Linden
-BENTLEY PHARMACEUTICALS INC&#39;  
-Suite A 1211 East St&#39;   Helens PasCO&#39;  WA 99301 t&#58;  &#43; 1 509 545 5853 f&#58;  &#43; 1 509 547 9861
+BENTLEY PHARMACEUTICALS INC&#8901; 
+Suite A 1211 East St&#8901; Helens PasCO&#8901; WA 99301 t&#58; &#43; 1 509 545 5853 f&#58; &#43; 1 509 547 9861
 </body>
 </html>
 <doctypehtml62>
@@ -553,7 +553,7 @@ Suite A 1211 East St&#39;   Helens PasCO&#39;  WA 99301 t&#58;  &#43; 1 509 545 
 729266358
 Roca
 BIOREX RESEARCH DEVELOPMENT CO
-Suite 205 7930 National Highway Pennsauken NJ 08110 t&#58;  &#43; 1 856 665 7511 f&#58;  &#43; 1 856 665 6047
+Suite 205 7930 National Highway Pennsauken NJ 08110 t&#58; &#43; 1 856 665 7511 f&#58; &#43; 1 856 665 6047
 </body>
 </html>
 <doctypehtml63>
@@ -562,7 +562,7 @@ Suite 205 7930 National Highway Pennsauken NJ 08110 t&#58;  &#43; 1 856 665 7511
 564580468
 AMARILLO
 JETPHARMA SA
-1100 W&#39;   Detweiller Road Peoria IL 61615 t&#58;  &#43; 1 309 692 4666 f&#58;  &#43; 1 309 683 2682
+1100 W&#8901; Detweiller Road Peoria IL 61615 t&#58; &#43; 1 309 692 4666 f&#58; &#43; 1 309 683 2682
 </body>
 </html>
 <doctypehtml64>
@@ -570,8 +570,8 @@ JETPHARMA SA
 <body>
 520776036
 Roxana
-TAKEDA CHEMICAL INDUSTRIES LTD&#39;  
-21415 N 15th Suite 114&#44;  Bldg E Phoenix AZ 85027 t&#58;  &#43; 1 623 516 4824 f&#58;  &#43; 1 623 516 0476
+TAKEDA CHEMICAL INDUSTRIES LTD&#8901; 
+21415 N 15th Suite 114&#44; Bldg E Phoenix AZ 85027 t&#58; &#43; 1 623 516 4824 f&#58; &#43; 1 623 516 0476
 </body>
 </html>
 <doctypehtml65>
@@ -579,8 +579,8 @@ TAKEDA CHEMICAL INDUSTRIES LTD&#39;
 <body>
 960495203
 KANSAS CITY
-LONZA INC&#39;  
-7375 W&#39;   Buckeye Road Building 2 Phoenix AZ 85043 t&#58;  &#43; 1 623 580 8101
+LONZA INC&#8901; 
+7375 W&#8901; Buckeye Road Building 2 Phoenix AZ 85043 t&#58; &#43; 1 623 580 8101
 </body>
 </html>
 <doctypehtml66>
@@ -589,7 +589,7 @@ LONZA INC&#39;
 454766212
 PASADENA
 ZAMBON GROUP SPA
-1415 Parkway View Drive Pittsburgh PA 15205 t&#58;  &#43; 1 412 787 7950 f&#58;  &#43; 1 412 787 5340
+1415 Parkway View Drive Pittsburgh PA 15205 t&#58; &#43; 1 412 787 7950 f&#58; &#43; 1 412 787 5340
 </body>
 </html>
 <doctypehtml67>
@@ -598,7 +598,7 @@ ZAMBON GROUP SPA
 835411245
 SPOKANE
 SMITHKLINE BEECHAM PHARMACEUTICALS
-5751 N&#39;  E&#39;   Columbia Rd&#39;   Portland OR 97218 t&#58;  &#43; 1 503 284 3808 f&#58;  &#43; 1 503 284 3110
+5751 N&#8901; E&#8901; Columbia Rd&#8901; Portland OR 97218 t&#58; &#43; 1 503 284 3808 f&#58; &#43; 1 503 284 3110
 </body>
 </html>
 <doctypehtml68>
@@ -607,7 +607,7 @@ SMITHKLINE BEECHAM PHARMACEUTICALS
 402362812
 SPOKANE
 SMITHKLINE BEECHAM PHARMACEUTICALS
-1048 Wellington Ave Cranston Providence RI 02910 t&#58;  &#43; 1 401 453 5544 f&#58;  &#43; 1 401 621 8293
+1048 Wellington Ave Cranston Providence RI 02910 t&#58; &#43; 1 401 453 5544 f&#58; &#43; 1 401 621 8293
 </body>
 </html>
 <doctypehtml69>
@@ -615,8 +615,8 @@ SMITHKLINE BEECHAM PHARMACEUTICALS
 <body>
 689501611
 HELENA
-WELLSPRING PHARMACEUTICAL CORP&#39;  
-37a Teed Drive Randolph MA 02368 t&#58;  &#43; 1 781 961 2725 f&#58;  &#43; 1 781 961 1061
+WELLSPRING PHARMACEUTICAL CORP&#8901; 
+37a Teed Drive Randolph MA 02368 t&#58; &#43; 1 781 961 2725 f&#58; &#43; 1 781 961 1061
 </body>
 </html>
 <doctypehtml70>
@@ -625,7 +625,7 @@ WELLSPRING PHARMACEUTICAL CORP&#39;
 9203701
 North Salt Lake
 PARKE DAVIS DIV WARNER LAMBERT CO
-323 Hilltop Avenue Richardson TX 75081 t&#58;  &#43; 1 972 238 5292 f&#58;  &#43; 1 972 907 1769
+323 Hilltop Avenue Richardson TX 75081 t&#58; &#43; 1 972 238 5292 f&#58; &#43; 1 972 907 1769
 </body>
 </html>
 <doctypehtml71>
@@ -633,8 +633,8 @@ PARKE DAVIS DIV WARNER LAMBERT CO
 <body>
 158016419
 PORTLAND
-LONZA LTD&#39;  
-8411 Oakview Ave Richmond VA 23228 t&#58;  &#43; 1 804 264 2755 f&#58;  &#43; 1 804 261 7266
+LONZA LTD&#8901; 
+8411 Oakview Ave Richmond VA 23228 t&#58; &#43; 1 804 264 2755 f&#58; &#43; 1 804 261 7266
 </body>
 </html>
 <doctypehtml72>
@@ -642,8 +642,8 @@ LONZA LTD&#39;
 <body>
 601542656
 EAST BOSTON
-TEMPIL DIV BIG THREE INDUSTRIES INC&#39;  
-7703 Enon Drive NW Roanoke VA 24019 t&#58;  &#43; 1 540 362 5043 f&#58;  &#43; 1 540 362 5317
+TEMPIL DIV BIG THREE INDUSTRIES INC&#8901; 
+7703 Enon Drive NW Roanoke VA 24019 t&#58; &#43; 1 540 362 5043 f&#58; &#43; 1 540 362 5317
 </body>
 </html>
 <doctypehtml73>
@@ -651,8 +651,8 @@ TEMPIL DIV BIG THREE INDUSTRIES INC&#39;
 <body>
 211454935
 Albuquerque
-ABBOTT LABORATORIES LTD&#39;  
-50 Vantage Pont Drive Rochester NY 14624 t&#58;  &#43; 1 585 349 4140 f&#58;  &#43; 1 585 349 4124
+ABBOTT LABORATORIES LTD&#8901; 
+50 Vantage Pont Drive Rochester NY 14624 t&#58; &#43; 1 585 349 4140 f&#58; &#43; 1 585 349 4124
 </body>
 </html>
 <doctypehtml74>
@@ -660,8 +660,8 @@ ABBOTT LABORATORIES LTD&#39;
 <body>
 556400129
 ANCHORAGE
-UNION QUIMICO&#39;  FARMACEUTICA SA UQUIFA SA
-Float Plant 140 Dixie Highway Rossford OH 43460 t&#58;  &#43; 1 419 247 3201 f&#58;  &#43; 1 419 247 3257
+UNION QUIMICO&#8901; FARMACEUTICA SA UQUIFA SA
+Float Plant 140 Dixie Highway Rossford OH 43460 t&#58; &#43; 1 419 247 3201 f&#58; &#43; 1 419 247 3257
 </body>
 </html>
 <doctypehtml75>
@@ -670,7 +670,7 @@ Float Plant 140 Dixie Highway Rossford OH 43460 t&#58;  &#43; 1 419 247 3201 f&#
 498524311
 Ponca City
 CU CHEMIE UETIKON GMBH
-1920 Bellaire Royal Oak MI 48067 t&#58;  &#43; 1 248 542 8300 f&#58;  &#43; 1 248 542 8072
+1920 Bellaire Royal Oak MI 48067 t&#58; &#43; 1 248 542 8300 f&#58; &#43; 1 248 542 8072
 </body>
 </html>
 <doctypehtml76>
@@ -679,7 +679,7 @@ CU CHEMIE UETIKON GMBH
 54669249
 CARSON
 PENINSULA LABORATORIES
-6271 Florin Perkins Suite 100 Sacramento CA 95828 t&#58;  &#43; 1 916 386 8514 f&#58;  &#43; 1 916 386 8552
+6271 Florin Perkins Suite 100 Sacramento CA 95828 t&#58; &#43; 1 916 386 8514 f&#58; &#43; 1 916 386 8552
 </body>
 </html>
 <doctypehtml77>
@@ -688,7 +688,7 @@ PENINSULA LABORATORIES
 185022698
 COMMERCE CITY
 HELVOET PHARMA MARYLAND
-1400 Weiss Street Saginaw MI 48603 t&#58;  &#43; 1 989 745 2840 f&#58;  &#43; 1 989 754 4110
+1400 Weiss Street Saginaw MI 48603 t&#58; &#43; 1 989 745 2840 f&#58; &#43; 1 989 754 4110
 </body>
 </html>
 <doctypehtml78>
@@ -696,8 +696,8 @@ HELVOET PHARMA MARYLAND
 <body>
 93314928
 Philadelphia
-FUJIMORI KOGYO CO&#39;  LTD&#39;  
-Suite No&#39;   4 2191 S&#39;   300 West Salt Lake City UT 84115 t&#58;  &#43; 1 801 467 3404 f&#58;  &#43; 1 801 466 9344
+FUJIMORI KOGYO CO&#8901; LTD&#8901; 
+Suite No&#8901; 4 2191 S&#8901; 300 West Salt Lake City UT 84115 t&#58; &#43; 1 801 467 3404 f&#58; &#43; 1 801 466 9344
 </body>
 </html>
 <doctypehtml79>
@@ -706,7 +706,7 @@ Suite No&#39;   4 2191 S&#39;   300 West Salt Lake City UT 84115 t&#58;  &#43; 1
 680432467
 PONCA CITY
 BIO RAD
-5718 Rittiman Plaza San Antonio TX 78218 t&#58;  &#43; 1 210 828 3126 f&#58;  &#43; 1 210 824 8765
+5718 Rittiman Plaza San Antonio TX 78218 t&#58; &#43; 1 210 828 3126 f&#58; &#43; 1 210 824 8765
 </body>
 </html>
 <doctypehtml80>
@@ -715,7 +715,7 @@ BIO RAD
 374336723
 Helena
 BIO RAD
-7163&#45;65 Engineer Road San Diego CA 92111 t&#58;  &#43; 1 858 627 9604 f&#58;  &#43; 1 858 627 9902
+7163&#45;65 Engineer Road San Diego CA 92111 t&#58; &#43; 1 858 627 9604 f&#58; &#43; 1 858 627 9902
 </body>
 </html>
 <doctypehtml81>
@@ -724,7 +724,7 @@ BIO RAD
 863887416
 Wrenshall
 UNIQUE CHEMICALS
-1552 Montague Expressway San Jose CA 95131 t&#58;  &#43; 1 408 428 0480 f&#58;  &#43; 1 408 428 0484
+1552 Montague Expressway San Jose CA 95131 t&#58; &#43; 1 408 428 0480 f&#58; &#43; 1 408 428 0484
 </body>
 </html>
 <doctypehtml82>
@@ -732,8 +732,8 @@ UNIQUE CHEMICALS
 <body>
 49652786
 Linden
-NORTH CHINA PHARMACEUTICAL CORP&#39;  
-Automotive Plant 300 Northridge Drive Shelbyville IN 46176 t&#58;  &#43; 1 317 392 7000 f&#58;  &#43; 1 317 392 7100
+NORTH CHINA PHARMACEUTICAL CORP&#8901; 
+Automotive Plant 300 Northridge Drive Shelbyville IN 46176 t&#58; &#43; 1 317 392 7000 f&#58; &#43; 1 317 392 7100
 </body>
 </html>
 <doctypehtml83>
@@ -741,8 +741,8 @@ Automotive Plant 300 Northridge Drive Shelbyville IN 46176 t&#58;  &#43; 1 317 3
 <body>
 889567501
 Linden
-JUZEN CHEMICAL CO&#39;  LTD&#39;  
- &ldquo;RTP&#45;Finance Center109 TW Alexander Drive  &#40;D143&#45;02&#41; Durham&#44;  N&#39;  C&#39;   27711 &rdquo; 
+JUZEN CHEMICAL CO&#8901; LTD&#8901; 
+ &ldquo;RTP&#45;Finance Center109 TW Alexander Drive &#40;D143&#45;02&#41; Durham&#44; N&#8901; C&#8901; 27711 &rdquo; 
 </body>
 </html>
 <doctypehtml84>
@@ -750,8 +750,8 @@ JUZEN CHEMICAL CO&#39;  LTD&#39;
 <body>
 955821551
 SUNRAY
-BACHEM FEINC&#39;  HEMIKALIEN AG
-3515 Atlanta Industrial Parkway Atlanta GA 30331 t&#58;  &#43; 1 770 384 0448 f&#58;  &#43; 1 770 333 1719
+BACHEM FEINC&#8901; HEMIKALIEN AG
+3515 Atlanta Industrial Parkway Atlanta GA 30331 t&#58; &#43; 1 770 384 0448 f&#58; &#43; 1 770 333 1719
 </body>
 </html>
 <doctypehtml85>
@@ -760,7 +760,7 @@ BACHEM FEINC&#39;  HEMIKALIEN AG
 502845123
 PHOENIX
 HELVOET PHARMA MARYLAND
-Suite 100 3725 W Cleveland Rd South Bend IN 46628 t&#58;  &#43; 1 574 273 5457 f&#58;  &#43; 1 574 273 5864
+Suite 100 3725 W Cleveland Rd South Bend IN 46628 t&#58; &#43; 1 574 273 5457 f&#58; &#43; 1 574 273 5864
 </body>
 </html>
 <doctypehtml86>
@@ -768,8 +768,8 @@ Suite 100 3725 W Cleveland Rd South Bend IN 46628 t&#58;  &#43; 1 574 273 5457 f
 <body>
 752744465
 PLEASANT HILL
-MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#39;  INC&#39;  
-East 3200 Trent Avenue Spokane WA 99202 t&#58;  &#43; 1 509 534 4899 f&#58;  &#43; 1 509 534 8265
+MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#8901; INC&#8901; 
+East 3200 Trent Avenue Spokane WA 99202 t&#58; &#43; 1 509 534 4899 f&#58; &#43; 1 509 534 8265
 </body>
 </html>
 <doctypehtml87>
@@ -777,7 +777,7 @@ East 3200 Trent Avenue Spokane WA 99202 t&#58;  &#43; 1 509 534 4899 f&#58;  &#4
 <body>
 778031746
 Sulphur
-MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#39;  INC&#39;  
+MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#8901; INC&#8901; 
 2335 E Chestnut Exp Building E Suite 100&#45;104 Springfield MO 65802
 </body>
 </html>
@@ -787,7 +787,7 @@ MERCK SHARP & DOHME RESEARCH LABS DIV MERCK & CO&#39;  INC&#39;
 415342928
 ROXANA
 BASELL POLIOLEFINE ITALIA SPA
-Syracuse &#45; Pilkington North America INC&#39;  &#39;  6412 Deere Road Syracuse NY 13206&#45;1347 t&#58;  &#43; 1&#45;315&#45;438&#45;3341
+Syracuse &#45; Pilkington North America INC&#8901; &#8901; 6412 Deere Road Syracuse NY 13206&#45;1347 t&#58; &#43; 1&#45;315&#45;438&#45;3341
 </body>
 </html>
 <doctypehtml89>
@@ -795,8 +795,8 @@ Syracuse &#45; Pilkington North America INC&#39;  &#39;  6412 Deere Road Syracus
 <body>
 162539379
 Linden
-TEKNI PLEX INC&#39;  
-3646 Hartsfield Rd&#39;   Tallahasee FL 32303 t&#58;  &#43; 1 850 575 5415 f&#58;  &#43; 1 850 575 0404
+TEKNI PLEX INC&#8901; 
+3646 Hartsfield Rd&#8901; Tallahasee FL 32303 t&#58; &#43; 1 850 575 5415 f&#58; &#43; 1 850 575 0404
 </body>
 </html>
 <doctypehtml90>
@@ -805,7 +805,7 @@ TEKNI PLEX INC&#39;
 67414408
 ALBUQUERQUE
 BIO RAD
-4410 E&#39;   Adamo Dr Suite 110 Tampa FL 33605 t&#58;  &#43; 1 813 248 8928 f&#58;  &#43; 1 813 248 5667
+4410 E&#8901; Adamo Dr Suite 110 Tampa FL 33605 t&#58; &#43; 1 813 248 8928 f&#58; &#43; 1 813 248 5667
 </body>
 </html>
 <doctypehtml91>
@@ -814,7 +814,7 @@ BIO RAD
 49161352
 Houston
 JOHNSON MATTHEY PHARMACEUTICAL MATERIALS
-2019 Texas Blvd Texarkana TX 75501 t&#58;  &#43; 1 903 793 1761 f&#58;  &#43; 1 903 792 5792
+2019 Texas Blvd Texarkana TX 75501 t&#58; &#43; 1 903 793 1761 f&#58; &#43; 1 903 792 5792
 </body>
 </html>
 <doctypehtml92>
@@ -822,8 +822,8 @@ JOHNSON MATTHEY PHARMACEUTICAL MATERIALS
 <body>
 890570184
 SPOKANE
-MULTISORB TECHNOLOGIES INC&#39;  
-1440 Barlow Street Traverse City MI 49686 t&#58;  &#43; 1 231 941 5660 f&#58;  &#43; 1 231 941 7072
+MULTISORB TECHNOLOGIES INC&#8901; 
+1440 Barlow Street Traverse City MI 49686 t&#58; &#43; 1 231 941 5660 f&#58; &#43; 1 231 941 7072
 </body>
 </html>
 <doctypehtml93>
@@ -831,8 +831,8 @@ MULTISORB TECHNOLOGIES INC&#39;
 <body>
 7604128
 Pleasant Hill
-FUJISAWA PHARMACEUTICAL CO&#39;  LTD&#39;  
-Suite 128 3850 E&#39;   44th St Tucson AZ 85713 t&#58;  &#43; 1 520 790 0357 f&#58;  &#43; 1 520 790 4642
+FUJISAWA PHARMACEUTICAL CO&#8901; LTD&#8901; 
+Suite 128 3850 E&#8901; 44th St Tucson AZ 85713 t&#58; &#43; 1 520 790 0357 f&#58; &#43; 1 520 790 4642
 </body>
 </html>
 <doctypehtml94>
@@ -841,7 +841,7 @@ Suite 128 3850 E&#39;   44th St Tucson AZ 85713 t&#58;  &#43; 1 520 790 0357 f&#
 77959699
 COMMERCE CITY
 LABORATOIRES SERONO SA
-Unit B 6050 Towpath Drive West Valley View OH 44512 t&#58;  &#43; 1 216 901 9890 f&#58;  &#43; 1 216 901 9681
+Unit B 6050 Towpath Drive West Valley View OH 44512 t&#58; &#43; 1 216 901 9890 f&#58; &#43; 1 216 901 9681
 </body>
 </html>
 <doctypehtml95>
@@ -850,7 +850,7 @@ Unit B 6050 Towpath Drive West Valley View OH 44512 t&#58;  &#43; 1 216 901 9890
 90930665
 WICHITA
 NV ORGANON
-102 Kuhlman Blvd US Route 60 Versailles KY 40383 t&#58;  &#43; 1 859 873 2366 f&#58;  &#43; 1 859 873 1810
+102 Kuhlman Blvd US Route 60 Versailles KY 40383 t&#58; &#43; 1 859 873 2366 f&#58; &#43; 1 859 873 1810
 </body>
 </html>
 <doctypehtml96>
@@ -858,8 +858,8 @@ NV ORGANON
 <body>
 80582526
 SWEENY
-ZENECA PHARMACEUTICALS DIV ZENECA INC&#39;  
-Units F & G 21 Patterson Brook Road West Wareham MA 02576 t&#58;  &#43; 1 508 291 7663 f&#58;  &#43; 1 508 295 9521
+ZENECA PHARMACEUTICALS DIV ZENECA INC&#8901; 
+Units F & G 21 Patterson Brook Road West Wareham MA 02576 t&#58; &#43; 1 508 291 7663 f&#58; &#43; 1 508 295 9521
 </body>
 </html>
 <doctypehtml97>
@@ -868,7 +868,7 @@ Units F & G 21 Patterson Brook Road West Wareham MA 02576 t&#58;  &#43; 1 508 29
 560887062
 Commerce City
 CHEMSYN SCIENCE LABORATORIES
-603 Claibone Street West Monroe LA 71291 t&#58;  &#43; 1 318 361 0185 f&#58;  &#43; 1 318 361 9418
+603 Claibone Street West Monroe LA 71291 t&#58; &#43; 1 318 361 0185 f&#58; &#43; 1 318 361 9418
 </body>
 </html>
 <doctypehtml98>
@@ -877,7 +877,7 @@ CHEMSYN SCIENCE LABORATORIES
 576445249
 Lubbock
 CHINOIN PHARMACEUTICAL CHEMICAL WORKS
-5 Karen Drive Westbrook ME 04092 t&#58;  &#43; 1 207 541 3907 f&#58;  &#43; 1 207 541 3913
+5 Karen Drive Westbrook ME 04092 t&#58; &#43; 1 207 541 3907 f&#58; &#43; 1 207 541 3913
 </body>
 </html>
 <doctypehtml99>
@@ -886,7 +886,7 @@ CHINOIN PHARMACEUTICAL CHEMICAL WORKS
 878585037
 GREAT FALLS
 ROFERM SPA
-Suite 20 552 Avenue D Burlington Williston VT 05495 t&#58;  &#43; 1 800 662 5739 f&#58;  &#43; 1 802 951 8679
+Suite 20 552 Avenue D Burlington Williston VT 05495 t&#58; &#43; 1 800 662 5739 f&#58; &#43; 1 802 951 8679
 </body>
 </html>
 <doctypehtml100>
@@ -894,6 +894,6 @@ Suite 20 552 Avenue D Burlington Williston VT 05495 t&#58;  &#43; 1 800 662 5739
 <body>
 917748544
 KANSAS CITY
-BRACCO&#39;  IND CHIMICA SPA
-50 Parker Street Worcester MA 01602 t&#58;  &#43; 1 508 792 1757 f&#58;  &#43; 1 508 792 1885
+BRACCO&#8901; IND CHIMICA SPA
+50 Parker Street Worcester MA 01602 t&#58; &#43; 1 508 792 1757 f&#58; &#43; 1 508 792 1885
 </body>
